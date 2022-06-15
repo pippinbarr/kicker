@@ -1,0 +1,51 @@
+#summary Information regarding each element of RedDog SF
+
+== Included ==
+
+  * Team Editor
+  * Player Editor
+  * Play Editor
+  * Fulten
+  * Play Analysis Engine
+  * !RedDog
+
+----
+
+=== Team Editor ===
+
+Allows for the creation of custom teams.  User enters team name, mascot and where they play and name of the coach.  Climate data can be selected from a predefined list, which will be applied for game time weather. Team colors and logos are also entries for this editor.
+
+----
+
+=== Player Editor ===
+
+Allows for the creation of custom players.
+To create players, basic information such as name, age, position and experience is included.
+To determine how good a player is, an array of 16 player variables is applied ranging from speed to their resistance to injury.  This will lead to creating an overall player ranking, ranging from 0 to 99.
+
+In future versions, after entering attributes, the system will automatically determine which position the player will be best at (best overall ranking).
+
+The editor also allows for auto-creation.  That is, by selecting the team, you may create players in specific positions without needing to enter in attributes.  An algorithm is applied that sets each attribute based on the position that the player is selected to play as.  Rosters for all 30 teams applied this feature.
+
+----
+
+=== Play Editor ===
+
+
+----
+
+=== Fulten ===
+
+
+----
+
+=== Play Analysis Engine ===
+
+
+----
+
+=== !RedDog ===
+
+
+
+----

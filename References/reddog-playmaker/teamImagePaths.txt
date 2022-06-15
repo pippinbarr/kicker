@@ -1,0 +1,32 @@
+31
+Portland images/backgrounds/Blue_Jays_Background.png images/slivers/BlueJays_Sliver.png images/helmets/blueJaysHelmet.png images/stadiums/HadlockField-BlueJays.png
+Rhode_Island images/backgrounds/Griffins_Background.png images/slivers/Griffins_Sliver.png images/helmets/griffinsHelmet.png images/stadiums/BrownStadium-Griffins.png
+Delaware images/backgrounds/Patriots_Background.png images/slivers/Patriots_Sliver.png images/helmets/patriotsHelmet.png images/stadiums/DelawareStadium-Patriots.png
+Lancaster images/backgrounds/Reds_Background.png images/slivers/Reds_Sliver.png images/helmets/redsHelmet.png images/stadiums/ClipperMagazineStadium-Reds.png
+Richmond images/backgrounds/Marines_Background.png images/slivers/Marines_Sliver.png images/helmets/marinesHelmet.png images/stadiums/WClaiborneRobinsStadium-Marines.png
+Orlando images/backgrounds/Shrikes_Background.png images/slivers/Shrikes_Sliver.png images/helmets/shrikesHelmet.png images/stadiums/CitrusBowl-Shrikes.png
+Biloxi images/backgrounds/Firebirds_Background.png images/slivers/Firebirds_Sliver.png images/helmets/firebirdsHelmet.png images/stadiums/RobertsStadium-Firebirds.png
+Birmingham images/backgrounds/Ironmen_Background.png images/slivers/Ironmen_Sliver.png images/helmets/ironmenHelmet.png images/stadiums/LegionField-Ironmen.png
+Arkansas images/backgrounds/Bucks_Background.png images/slivers/Bucks_Sliver.png images/helmets/bucksHelmet.png images/stadiums/GoldenLionsStadium-Bucks.png
+San_Antonio images/backgrounds/Hornets_Background.png images/slivers/Hornets_Sliver.png images/helmets/hornetsHelmet.png images/stadiums/AlamoDome-Hornets.png
+Upper_Michigan images/backgrounds/Rabbits_Background.png images/slivers/Rabbits_Sliver.png images/helmets/rabbitsHelmet.png images/stadiums/SuperiorDome-Rabbits.png
+Iowa images/backgrounds/Miners_Background.png images/slivers/Miners_Sliver.png images/helmets/minersHelmet.png images/stadiums/DrakeStadium-Miners.png
+London images/backgrounds/Thunder_Background.png images/slivers/Thunder_Sliver.png images/helmets/thunderHelmet.png images/stadiums/TDWaterhouseStadium-Thunder.png
+Dayton images/backgrounds/Skyhawks_Background.png images/slivers/Skyhawks_Sliver.png images/helmets/skyhawksHelmet.png images/stadiums/WelcomeStadium-Skyhawks.png
+Charleston images/backgrounds/Cardinals_Background.png images/slivers/Cardinals_Sliver.png images/helmets/cardinalsHelmet.png images/stadiums/LaidleyField-Cardinals.png
+Dakota images/backgrounds/Cougars_Background.png images/slivers/Cougars_Sliver.png images/helmets/cougarsHelmet.png images/stadiums/SiouxFallsStadium-Cougars.png
+Wichita images/backgrounds/Jets_Background.png images/slivers/Jets_Sliver.png images/helmets/jetsHelmet.png images/stadiums/CessnaStadium-Jets.png
+Tulsa images/backgrounds/Road_Runners_Background.png images/slivers/RoadRunners_Sliver.png images/helmets/roadRunnersHelmet.png images/stadiums/HAChapmanStadium-RoadRunners.png
+Amarillo images/backgrounds/Coyotes_Background.png images/slivers/Coyotes_Sliver.png images/helmets/coyotesHelmet.png images/stadiums/KimbroughMemorialStadium-Coyotes.png
+Albuquerque images/backgrounds/Trailblazers_Background.png images/slivers/Trailblazers_Sliver.png images/helmets/trailblazersHelmet.png images/stadiums/UniversityStadium-Trailblazers.png
+Montana images/backgrounds/Wizards_Background.png images/slivers/Wizards_Sliver.png images/helmets/wizardsHelmet.png images/stadiums/DehlerPark-Wizards.png
+Wyoming images/backgrounds/Oilers_Background.png images/slivers/Oilers_Sliver.png images/helmets/oilersHelmet.png images/stadiums/<<Stadium Name>>-Oilers.png
+Salt_Lake images/backgrounds/Owls_Background.png images/slivers/Owls_Sliver.png images/helmets/owlsHelmet.png images/stadiums/RioTintoStadium-Owls.png
+Boise images/backgrounds/Pioneers_Background.png images/slivers/Pioneers_Sliver.png images/helmets/pioneersHelmet.png images/stadiums/BroncoStadium-Pioneers.png
+Tahoe images/backgrounds/Beavers_Background.png images/slivers/Beavers_Sliver.png images/helmets/beaversHelmet.png images/stadiums/MackayStadium-Beavers.png
+Anchorage images/backgrounds/Eskimos_Background.png images/slivers/Eskimos_Sliver.png images/helmets/eskimosHelmet.png images/stadiums/HeritageField-Eskimos.png
+Tacoma images/backgrounds/Aces_Background.png images/slivers/Aces_Sliver.png images/helmets/acesHelmet.png images/stadiums/TacomaDome-Aces.png
+Oregon images/backgrounds/Atoms_Background.png images/slivers/Atoms_Sliver.png images/helmets/atomsHelmet.png images/stadiums/JeldWenField-Atoms.png
+Los_Angeles images/backgrounds/Olympians_Background.png images/slivers/Olympians_Sliver.png images/helmets/olympiansHelmet.png images/stadiums/LosAngelesStadium-Olympians.png
+Hawaii images/backgrounds/Royals_Background.png images/slivers/Royals_Sliver.png images/helmets/royalsHelmet.png images/stadiums/AlohaStadium-Royals.png
+CGNU images/backgrounds/Dumples_Background.png images/slivers/Dumples_Sliver.png images/helmets/dumplesHelmet.png images/stadiums/KingOfTownCastleField-Dumples.png

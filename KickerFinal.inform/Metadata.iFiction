@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>9ACC9B17-B839-4B7C-BAEB-7CEB701E719B</ifid>
+            <format>zcode</format>
+        </identification>
+        <bibliographic>
+            <title>Kicker v.8</title>
+            <author>Pippin Barr</author>
+            <headline>An Interactive Fiction</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2012</firstpublished>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2012-08-11</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>6G60</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>6G60</generatorversion>
+            <originated>2012-08-11</originated>
+        </colophon>
+        <zcode>
+            <serial>120811</serial>
+            <release>1</release>
+            <compiler>Inform 7 build 6G60</compiler>
+        </zcode>
+    </story>
+</ifindex>

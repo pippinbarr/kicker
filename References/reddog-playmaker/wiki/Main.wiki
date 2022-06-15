@@ -1,0 +1,22 @@
+#summary Summary, focus and goals for RedDog Strategy Football
+
+= What is !RedDog? =
+
+!RedDog SF, formerly Playmaker SF, is a Java-based American football strategy game started in July 2010.  The game features editors for creating teams, players, and plays which allow for maximum customization.
+
+
+== [Features] ==
+
+!RedDog comes equipped with 30 Custom [Teams], all located in areas of North America without NFL teams and in most cases, no major sports teams whatsoever.
+
+Custom graphics are applied to each team.  All 30 teams have home and away jerseys, created with the aid of Teamwork Athletic's online jersey designer, logos, helmets and stadiums.
+
+All stadiums, with one exception, are currently existing locations in or near the host city.  Most are college stadiums while others are baseball fields.
+
+The main interface allows for playing single games, creating a simulation, playing a single-elimination tournament, or playing a complete season.
+
+Games are performed as Human vs. CPU or CPU vs. CPU simulations.  
+
+The CPU is implemented with the Fulten system, the Football Utilizing Logistics and Tactics Engine.  Fulten applies current game situations, such as ball position, time, score, and game statistics and judges what the best course of action is for the current play.  In cases where Fulten is unsure of what to do, extra variables such as play call frequency and overall effectiveness are used to influence a decision.
+
+The !RedDog Play Analysis engine takes the plays selected by both offense and defense and simulates the result by taking every aspect and matchup in the play and running it 1000 times to come up with the most likely outcome for that part of the play.  This results in varied outcomes each and every time.

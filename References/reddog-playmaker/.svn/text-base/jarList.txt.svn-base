@@ -1,0 +1,38 @@
+Files to include in RedDog.jar:
+
+RedDog.mf	-- Manifest file to create before final compilation
+RedDog.java
+CPU.java
+CPUSimulation.java
+Climate.java
+Drive.java
+Field.java
+Formation.java
+Play.java
+PlayAnalysis.java
+Season.java
+Statistics.java
+Sunrise.java
+Team.java
+Tournament.java
+TranslucentPanel.java -- Need to note where this came from
+teamImagePaths.txt
+
+Images to include in RedDog.jar
+
+images/backgrounds
+images/logos/*_std.png	-- All images that are not labeled with "_std" will not be included in the release.
+images/slivers
+images/helmets
+images/jerseys
+images/system
+images/stadiums
+
+Data files to include in RedDog.jar
+
+saveData folder (emptied)
+teams folder and sub-folders
+playbook.pb and associated play files and images
+
+
+File size currently: ~25MB.  Jar size, with above files (approx): ~9MB

@@ -1,0 +1,197 @@
+The offense runs off the field.
+>clap
+That's not a verb I recognise.
+
+>applaud team
+That's not a verb I recognise.
+
+>talk to team
+You can't see any such thing.
+
+>talk to players
+You can't see any such thing.
+
+>stand
+You stand up from the bench.
+
+The punt team runs onto the field.
+
+>run onto field
+Now is not a good time.
+
+The defense runs onto the field. The punter and the punt team run off the field.
+
+>cry with frustration
+That's not a verb I recognise.
+
+>beat chest
+That's not a verb I recognise.
+
+>help
+In this game you interact by typing commands that express what you want to do. The available commands are very simple, such as "get cup" or "kick ball".
+
+When there is a specific, football related command you should type to perform your job as a kicker, the command will appear in bold text so that you know it's important. You should probably do it immediately.
+
+Other than that, you could try all kinds of actions, usually by typing a verb and then an object. Some of the actions you can try include look/examine, sit, stand, get, drop, talk to, drink, touch, taste, smell, and listen.
+
+You can even just watch the game if you want.
+
+You'll figure it out.
+
+>small ball
+That's not a verb I recognise.
+
+>smell ball
+It smells like leather. Because it's made of leather.
+
+>taste ball
+Leathery.
+
+The crowd yells its approval.
+
+>sigh
+That's not a verb I recognise.
+
+>get mouth guard
+You can't see any such thing.
+
+>smile
+That's not a verb I recognise.
+
+>yell
+That's not a verb I recognise.
+
+>talk to coach
+Who do you mean, the head coach or the special teams coach?
+
+>head coach
+You approach the head coach and ask for some fatherly advice about how to focus under pressure. He grunts something incomprehensible and turns back to the game.
+
+The punt return team runs onto the field. The defense runs off the field.
+
+>smell head coach
+He smells like anger.
+
+The offense runs onto the field. The punt return unit runs off the field.
+
+>walk to edge of field
+You can't see any such thing.
+
+>sit
+(On the bench.)
+
+You find an empty spot on the bench and sit down. The player you sit down next to looks vaguely embarrassed that you're there.
+
+The head coach catches you sitting down and shouts something about practice. You stand up.
+
+>talk to player
+You can't see any such thing.
+
+>sit
+(On the bench.)
+
+You find an empty spot on the bench and sit down. None of your neighbours look very happy about it.
+
+>get ball
+That seems to be a part of the practice equipment.
+
+A player tells you he wouldn't sit in that spot if he were you. You ask why, but he doesn't say anything. You get up.
+
+The referee announces a penalty over the PA system..
+
+>sit
+(On the bench.)
+
+You find an empty spot on the bench and sit down. The player you sit down next to looks vaguely embarrassed that you're there.
+
+The crowd ripples with applause.
+
+>get play list
+You can't see any such thing.
+
+>listen to crowd
+They sound like a big crowd at a football game.
+
+>listen to game
+You can't see any such thing.
+
+>stand
+You stand up.
+
+>walk
+You'll have to say which compass direction to go in.
+
+The crowd claps appreciatively.
+
+>walk north
+You can't go that way.
+
+The crowd applauds.
+
+>walk south
+You can't go that way.
+
+>walk east
+Now is not a good time.
+
+>walk west
+You try running off the field, but since you're not on it, it doesn't work out very well.
+
+The offense runs off the field.
+>look east
+You see nothing unexpected in that direction.
+
+The coach orders you to get on the field.
+
+>get on the field
+You're not allowed on the field if you're not wearing your helmet.
+
+The coach yells hoarsely that you need to get on the field.
+
+>put on helmet
+You put on your helmet.
+
+The coach yells that you better run on without delay.
+
+>run on field
+You hurry onto the field.
+
+The Field
+You find yourself standing on the field of play at the 76 yard line. Refreshingly, everyone is paying attention to you. The crowd looms all around you, largely silent as they wait for you to signal your kick.
+
+You can see the special teams unit, some officials and the opposition here.
+
+The holder calmly watches for your signal.
+
+>signal kick
+I only understood you as far as wanting to signal.
+
+>signal
+You raise your arm to signal you're going to kick to the holder. He turns and signals to the center who fires the ball back. The holder deftly catches it and positions the ball. The two lines of players collide with huge force as they fight to control the space. Now you just need to kick the ball.
+
+>kick
+You stride forward and swing your foot into the ball, lifting it toward the goal posts.
+
+You didn't connect well enough and the ball sails wide of the right goalpost. It's no good! The coach waves at you to get off the field.
+
+The crowd stirs restlessly.
+
+The defense runs onto the field. The field goal team runs off the field.
+
+>get off field
+But you aren't on the field judge at the moment.
+
+Now would be a good time to run off the field.
+
+>run off field
+You wander off.
+
+The Sidelines
+Ah yes, the sidelines. The place where you spend almost all of your time. The ground is a little muddy and the benches are almost vindictively  uncomfortable, but it is what it is. There's a bunch of equipment around and as always it's crowded with teammates, coaches, and assorted hangers-on.
+
+You can see the special teams unit, the offensive unit, the punter, the head coach, the special teams coach, some assistant coaches, a film crew, some cheerleaders and an equipment manager here.
+
+>sit
+(On the bench.)
+
+You find an empty spot on the bench and sit down. None of your neighbours look very happy about it.

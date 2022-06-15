@@ -1,0 +1,3095 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0x8f9ffb0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0x8f9ffb0" />
+  <item nodeId="node-0x8f9ffb0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+&quot;Let me hear &quot;win&quot; on three, 1 2 3…&quot;
+
+&quot;WIN!&quot;
+
+It&apos;s gameday again. You jog down the tunnel to the field with the coach&apos;s inspirational speech still ringing in your ears. By the time you emerge onto the field, the frenzied introductions of the offensive and defensive stars are over and the welcoming rows of cheerleaders have broken up. You quietly wend your way through the men disassembling the giant helmet that the other players got to burst through to the adoration of the crowd.
+
+You head over to your team&apos;s sideline and stand inconspicuously near your practice equipment. One of the backup linebackers runs past and stops to smash his facemask into yours, screaming Gameday! It&apos;s on now! Wooooooo! but when he realises who you are he looks disappointed and walks away. You pretend to stretch your kicking leg.
+
+
+Please press SPACE to continue.
+
+Kicker
+An Interactive Fiction by Pippin Barr
+Release 1 / Serial number 130529 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+The Sidelines
+Ah yes, the sidelines. The place where you spend almost all of your time. The ground is a little muddy and the benches are almost vindictively uncomfortable, but it is what it is. There&apos;s a bunch of equipment around and as always it&apos;s crowded with teammates, coaches, and assorted others. To the west you can see the part of the stadium seating nearest you, and to the east you can see the field. The Jumbotron looms above it all.
+
+Before you know it your team has won the coin toss and elected to kick off. That would be your job. Now would be a good time to run onto the field.
+
+(If you need help during this game, try help or walkthrough.)
+
+
+You can see the offensive unit, the defensive unit, the holder, the punter, the head coach, the special teams coach, some assistant coaches, a film crew, some cheerleaders and an equipment manager here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2">NO</temporary>
+    <children>
+      <child nodeId="node-0x91790d0" />
+      <child nodeId="node-0x9178f80" />
+      <child nodeId="node-0x9178b20" />
+      <child nodeId="node-0x9178880" />
+      <child nodeId="node-0x9178340" />
+      <child nodeId="node-0x9178180" />
+      <child nodeId="node-0x9177f50" />
+      <child nodeId="node-0x9175d30" />
+      <child nodeId="node-0x9175be0" />
+      <child nodeId="node-0x9175a20" />
+      <child nodeId="node-0x91756a0" />
+      <child nodeId="node-0x9175380" />
+      <child nodeId="node-0x9175070" />
+      <child nodeId="node-0x9174f90" />
+      <child nodeId="node-0x9174ab0" />
+      <child nodeId="node-0x8fa03e0" />
+      <child nodeId="node-0x8fa0260" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa0260">
+    <command xml:space="preserve">x bench</command>
+    <result xml:space="preserve">It&apos;s very hard to understand why the benches have to be quite so unpleasant to sit on, but they are.
+
+Your coach tells you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa02b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa02b0">
+    <command xml:space="preserve">x bench</command>
+    <result xml:space="preserve">It&apos;s very hard to understand why the benches have to be quite so unpleasant to sit on, but they are.
+
+Your coach seeths as he tells you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa0300" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa0300">
+    <command xml:space="preserve">x jumbotron</command>
+    <result xml:space="preserve">On the Jumbotron there&apos;s an image of a kicker standing around on the sidelines. What a jerk.
+
+Your coach screams with a red face that you have to run on without delay.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa0370" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa0370">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">The Sidelines
+Ah yes, the sidelines. The place where you spend almost all of your time. The ground is a little muddy and the benches are almost vindictively uncomfortable, but it is what it is. There&apos;s a bunch of equipment around and as always it&apos;s crowded with teammates, coaches, and assorted others. To the west you can see the part of the stadium seating nearest you, and to the east you can see the field. The Jumbotron looms above it all.
+
+You can see the offensive unit, the defensive unit, the holder, the punter, the head coach, the special teams coach, some assistant coaches, a film crew, some cheerleaders and an equipment manager here.
+
+Your head coach has to burn a timeout because you didn&apos;t even run onto the field to kick. He looks extremely displeased. He suggests that perhaps this time you would do everyone a favour and run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="26">YES</temporary>
+  </item>
+  <item nodeId="node-0x8fa03e0">
+    <command xml:space="preserve">run on the field</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa0450" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa0450">
+    <command xml:space="preserve">get on the field</command>
+    <result xml:space="preserve">You run onto the field!
+
+On the Field
+You&apos;re standing on the field.
+
+The rest of the kicking team waits for you to give the signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa0660" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa0660">
+    <command xml:space="preserve">signal</command>
+    <result xml:space="preserve">You raise your arm to signal you&apos;re about to kickoff and the kickoff team gets ready to charge down the field.
+
+Your teammates wait for you to kick the ball. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa06b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa06b0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your teammates look a little confused about why you don&apos;t just kick the ball. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa0700" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa0700">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The play clock has almost run out, you really should kick the ball. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa0770" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa0770">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Having watched you stand motionless until the play clock is about to run out, the coach is forced to call a timeout. His face looks grim. 
+
+The coach drags you off the field and yells about the basic requirement that a kicker kick the ball. He suggests that you get on the field and do your job. 
+
+On the Sidelines
+You&apos;re standing on the sidelines.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa07e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa07e0">
+    <command xml:space="preserve">get on the field</command>
+    <result xml:space="preserve">You run onto the field!
+
+On the Field
+You&apos;re standing on the field.
+
+The rest of the kicking team waits for you to give the signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x8fa04c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x8fa04c0">
+    <command xml:space="preserve">signal</command>
+    <result xml:space="preserve">You raise your arm to signal you&apos;re about to kickoff and the kickoff team gets ready to charge down the field.
+
+Your teammates wait for you to kick the ball. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174b40" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174b40">
+    <command xml:space="preserve">kick the ball</command>
+    <result xml:space="preserve">You sprint forward and swing your foot into the ball, launching it into high and far into the air toward the opposition&apos;s endzone… and swin⩏nd swing your foot into the ball, launching it into high and far into the air toward the opposit敨獳瀭湧
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174b90">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174be0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174be0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174c50" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174c50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 15:00 : 1 &amp; 0 @ 30 (1)
+Home 0 - 0 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: kickoff -&gt; PR: kickoff -&gt; FPR: kickoff return 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 15 -&gt; NYR: 15 
+KD: 62 -&gt; GYR: 15 -&gt; NYR: 15 
+
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174cc0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your teammates all run off the field after the kick.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174d30" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174d30">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach shouts at you to get off the field and come back over to the sidelines. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174da0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174da0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach rages and gestures at you to get off the field. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14926">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174a60" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174a60">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach is forced to call a timeout thanks to you just standing around. He doesn&apos;t look all that pleased with you. 
+
+Two of your teammates drag you off the field between them on the coach&apos;s instructions. He spends several precious seconds of his time yelling in your face about the need to get off the field in a timely fashion.
+
+On the Sidelines
+You&apos;re standing on the sidelines.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="14925">YES</temporary>
+  </item>
+  <item nodeId="node-0x9174ab0">
+    <command xml:space="preserve">tell coach about pee</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1">YES</temporary>
+  </item>
+  <item nodeId="node-0x9174f90">
+    <command xml:space="preserve">read head coach</command>
+    <result xml:space="preserve">You&apos;ve never been very good at reading people…
+The coach orders you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1747">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175000" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175000">
+    <command xml:space="preserve">read cup</command>
+    <result xml:space="preserve">You start reading the paper cup, then wonder about how much that makes sense, then stop.
+
+The coach grinds his teeth and tells you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1746">YES</temporary>
+  </item>
+  <item nodeId="node-0x9175070">
+    <command xml:space="preserve">run onto field</command>
+    <result xml:space="preserve">You run onto the field!
+
+On the Field
+You&apos;re standing on the field.
+
+The rest of the kicking team waits for you to give the signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17589">YES</temporary>
+    <children>
+      <child nodeId="node-0x91750e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91750e0">
+    <command xml:space="preserve">signal</command>
+    <result xml:space="preserve">You raise your arm to signal you&apos;re about to kickoff and the kickoff team gets ready to charge down the field.
+
+Your teammates wait for you to kick the ball. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17589">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175150" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175150">
+    <command xml:space="preserve">kick the ball</command>
+    <result xml:space="preserve">You sprint forward and swing your foot into the ball, launching it into high and far into the air toward the opposition&apos;s endzone… and swing d swing your foot into the ball, launching it into high and far into the air towar
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17589">YES</temporary>
+    <children>
+      <child nodeId="node-0x91751c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91751c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17589">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175230" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175230">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17589">YES</temporary>
+    <children>
+      <child nodeId="node-0x91752a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91752a0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your perception of time returns to normal.
+
+The ball lands 76 yards downfield, bouncing through the endzone for a touchback. 
+
+The coach signals for you to run off the field. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17589">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175310" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175310">
+    <command xml:space="preserve">run off the field</command>
+    <result xml:space="preserve">You run off the field.
+
+On the Sidelines
+You&apos;re standing on the sidelines.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="17588">YES</temporary>
+  </item>
+  <item nodeId="node-0x9175380">
+    <command xml:space="preserve">kick ball</command>
+    <result xml:space="preserve">You swing your leg and launch the practice ball into the net. You look around to see if anyone saw how nicely you did that. Nope. You replace the ball into the holder for another kick.
+
+Your coach tells you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="529">YES</temporary>
+    <children>
+      <child nodeId="node-0x91753f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91753f0">
+    <command xml:space="preserve">kick</command>
+    <result xml:space="preserve">(the kicking ball)
+You step into the kick and hammer the practice ball into the back of the net. It&apos;s good! Well, it would have been. You set the ball up again.
+
+Your coach screams at you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="529">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174e10" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174e10">
+    <command xml:space="preserve">run on</command>
+    <result xml:space="preserve">You head onto the field.
+
+The Field
+You find yourself standing on the field of play at your own 30 yard line. It&apos;s one of those rare times when all eyes are turned on you. The crowd looms all around you, largely silent as they wait for you to signal your kick. To the west you can see your home sidelines and to the east is the opposition sidelines. The Jumbotron looms above it all.
+
+You can see the special teams unit, some officials and the opposition here.
+
+The rest of the coverage team wait for you to give the signal.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="529">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174e80">
+    <command xml:space="preserve">kick</command>
+    <result xml:space="preserve">(the game ball)
+Now is not really a good time for that.
+
+Your teammates wait impatiently for your signal.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="529">YES</temporary>
+    <children>
+      <child nodeId="node-0x9174ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9174ef0">
+    <command xml:space="preserve">x game</command>
+    <result xml:space="preserve">Which do you mean, the fieldgame or the game ball?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="528">YES</temporary>
+  </item>
+  <item nodeId="node-0x91756a0">
+    <command xml:space="preserve">read myself</command>
+    <result xml:space="preserve">You&apos;ve never been very good at reading people.
+
+The coach orders you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1755">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175710" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175710">
+    <command xml:space="preserve">read quarterback</command>
+    <result xml:space="preserve">You&apos;ve never been very good at reading people.
+
+The coach grinds his teeth and tells you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1755">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175780" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175780">
+    <command xml:space="preserve">take ball</command>
+    <result xml:space="preserve">Leave the kicking ball alone.
+
+The coach screams with a red face that you have to run on right now.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1755">YES</temporary>
+    <children>
+      <child nodeId="node-0x91757f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91757f0">
+    <command xml:space="preserve">take head coach</command>
+    <result xml:space="preserve">Hey! Hands off!
+
+Your head coach uses a timeout because you didn&apos;t even run onto the field to kick. He looks extraordinarily unimpressed. He whacks you on the shoulder and yells at you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1755">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175860" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175860">
+    <command xml:space="preserve">take screen</command>
+    <result xml:space="preserve">Leave the screens alone.
+
+The coach calls you over and tells you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1755">YES</temporary>
+    <children>
+      <child nodeId="node-0x91758d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91758d0">
+    <command xml:space="preserve">sigh</command>
+    <result xml:space="preserve">You sigh.
+
+The coach screams at you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1755">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175940" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175940">
+    <command xml:space="preserve">jog</command>
+    <result xml:space="preserve">You jog furiously on the spot for a couple of seconds, then stop. It&apos;s tiring.
+
+The coach yells that you better run on immediately.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1755">YES</temporary>
+    <children>
+      <child nodeId="node-0x91759b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91759b0">
+    <command xml:space="preserve">stretch</command>
+    <result xml:space="preserve">You ostentaiously perform a hamstring stretch, looking around to see if anyone&apos;s watching.
+
+The coach is forced to call a time out because you just stood on the sidelines instead of kicking. He looks extremely displeased. He grabs you by the jersey and orders you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1754">YES</temporary>
+  </item>
+  <item nodeId="node-0x9175a20">
+    <command xml:space="preserve">talk to table</command>
+    <result xml:space="preserve">Q1, 15:00 : 1 &amp; 0 @ 30 (1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: kickoff -&gt; PR: kickoff -&gt; FPR: kickoff return 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 23 -&gt; NYR: 23 
+KD: 58 -&gt; GYR: 23 -&gt; NYR: 23 
+
+Clock is: stopped
+The kickoff unit runs off the field.
+
+The defense runs onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3780">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175a90" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175a90">
+    <command xml:space="preserve">talk to quarterback</command>
+    <result xml:space="preserve">You try to think of some to say to the quarterback, but he seems busy.
+
+Q1, 14:51 : 1 &amp; 10 @ 35 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 23 -&gt; NYR: 23 
+KD: 58 -&gt; GYR: 23 -&gt; NYR: 23 
+
+Clock is: stopped
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3780">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175b00" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175b00">
+    <command xml:space="preserve">talk to myself</command>
+    <result xml:space="preserve">Hi there.
+
+Q1, 14:46 : 2 &amp; 10 @ 35 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: pass -&gt; PR: gain -&gt; FPR: first down 
+GYG: 37 -&gt; NYG: 37 -&gt; GYR: 23 -&gt; NYR: 23 
+KD: 58 -&gt; GYR: 23 -&gt; NYR: 23 
+
+Clock is: running
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3780">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175b70" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175b70">
+    <command xml:space="preserve">talk to ball</command>
+    <result xml:space="preserve">Q1, 14:00 : 1 &amp; 10 @ 72 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: run -&gt; PR: loss -&gt; FPR: loss 
+GYG: -4 -&gt; NYG: -4 -&gt; GYR: 23 -&gt; NYR: 23 
+KD: 58 -&gt; GYR: 23 -&gt; NYR: 23 
+
+Clock is: running
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3779">YES</temporary>
+  </item>
+  <item nodeId="node-0x9175be0">
+    <command xml:space="preserve">make the tackle</command>
+    <result xml:space="preserve">Tackling someone right now would be incredibly impolite.
+
+Q1, 15:00 : 1 &amp; 0 @ 30 (1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: kickoff -&gt; PR: kickoff -&gt; FPR: kickoff return 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 18 -&gt; NYR: 18 
+KD: 66 -&gt; GYR: 18 -&gt; NYR: 18 
+
+Clock is: stopped
+The kickoff unit runs off the field.
+
+The defense runs onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3776">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175c50" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175c50">
+    <command xml:space="preserve">sit on</command>
+    <result xml:space="preserve">What do you want to sit on?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3776">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175cc0">
+    <command xml:space="preserve">the bench</command>
+    <result xml:space="preserve">You find an empty spot and sit down.
+
+A player comes over and informs you you&apos;re sitting in his spot. You get up, and he walks off.
+
+Q1, 14:48 : 1 &amp; 10 @ 22 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: run -&gt; PR: gain -&gt; FPR: gain 
+GYG: 1 -&gt; NYG: 1 -&gt; GYR: 18 -&gt; NYR: 18 
+KD: 66 -&gt; GYR: 18 -&gt; NYR: 18 
+
+Clock is: running
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3775">YES</temporary>
+  </item>
+  <item nodeId="node-0x9175d30">
+    <command xml:space="preserve">run on field</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175da0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175da0">
+    <command xml:space="preserve">run on</command>
+    <result xml:space="preserve">You run onto the field!
+
+On the Field
+You&apos;re standing on the field.
+
+The rest of the kicking team waits for you to give the signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175460" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175460">
+    <command xml:space="preserve">signal</command>
+    <result xml:space="preserve">You raise your arm to signal you&apos;re about to kickoff and the kickoff team gets ready to charge down the field.
+
+Your teammates wait for you to kick the ball. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91754d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91754d0">
+    <command xml:space="preserve">kick the ball</command>
+    <result xml:space="preserve">You sprint forward and swing your foot into the ball, launching it into high and far into the air toward the opposition&apos;s endzone… and swinand swing your foot into the ball, launching it into high and far into the air towar
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175540" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175540">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91755b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91755b0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175620" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175620">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 15:00 : 1 &amp; 0 @ 30 (1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: player kickoff -&gt; PR: player kickoff -&gt; FPR: touchback 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 76 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - kickedYour perception of time returns to normal.
+
+The ball lands 76 yards downfield, bounding through the endzone for a touchback. 
+
+The coach signals for you to come off the field. 
+
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175e10" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175e10">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your teammates all run off the field after the kick.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175e80" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175e80">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach shouts at you to get off the field and come back over to the sidelines. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175ef0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175ef0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach rages and gestures at you to get off the field. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175f60" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175f60">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach is forced to call a timeout thanks to you just standing around. He doesn&apos;t look all that pleased with you. 
+
+Two of your teammates drag you off the field between them on the coach&apos;s instructions. He spends several precious seconds of his time yelling in your face about the need to get off the field in a timely fashion.
+
+On the Sidelines
+You&apos;re standing on the sidelines.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9175fd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9175fd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 14:51 : 1 &amp; 10 @ 20 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: run -&gt; PR: loss -&gt; FPR: loss 
+GYG: -1 -&gt; NYG: -1 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 76 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176040" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176040">
+    <command xml:space="preserve">run on the field</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91760b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91760b0">
+    <command xml:space="preserve">get on the field</command>
+    <result xml:space="preserve">Now is not a good time.
+
+Q1, 14:18 : 2 &amp; 11 @ 19 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 6 -&gt; NYG: 6 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 76 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176120" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176120">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 13:47 : 3 &amp; 5 @ 25 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 3 -&gt; NYG: 3 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 76 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176190" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176190">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 13:18 : 4 &amp; 2 @ 28 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: punt -&gt; PR: punt -&gt; FPR: punt 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 59 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176200" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176200">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 13:06 : 1 &amp; 10 @ 13 (1)
+Home 0 - 0 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: loss -&gt; FPR: loss 
+GYG: -2 -&gt; NYG: -2 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 59 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176270" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176270">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 12:46 : 2 &amp; 12 @ 11 (1)
+Home 0 - 0 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: medium gain -&gt; FPR: medium gain 
+GYG: 9 -&gt; NYG: 9 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 59 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91762e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91762e0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 12:23 : 3 &amp; 3 @ 20 (1)
+Home 0 - 0 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: no gain -&gt; FPR: no gain 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 59 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176350" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176350">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 11:48 : 4 &amp; 3 @ 20 (1)
+Home 0 - 0 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: punt -&gt; PR: punt -&gt; FPR: punt 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 47 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91763c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91763c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 11:38 : 1 &amp; 10 @ 33 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: big gain -&gt; FPR: first down 
+GYG: 55 -&gt; NYG: 55 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 47 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+The crowd murmurs moodily.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176430" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176430">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 11:01 : 1 &amp; 10 @ 88 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: sack -&gt; FPR: sack 
+GYG: -4 -&gt; NYG: -4 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 47 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+The crowd cheers.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91764a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91764a0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 10:29 : 2 &amp; 14 @ 84 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 4 -&gt; NYG: 4 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 47 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176510" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176510">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 9:49 : 3 &amp; 10 @ 88 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 47 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176580" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176580">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 9:42 : 4 &amp; 10 @ 88 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: field goal -&gt; PR: field goal -&gt; FPR: made field goal 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 29 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+The crowd simmers.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91765f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91765f0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 9:37 : 1 &amp; 0 @ 30 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: kickoff -&gt; PR: kickoff -&gt; FPR: kickoff return 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 61 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176660" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176660">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 9:27 : 1 &amp; 10 @ 23 (1)
+Home 0 - 3 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 4 -&gt; NYG: 4 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 61 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91766d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91766d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 8:52 : 2 &amp; 6 @ 27 (1)
+Home 0 - 3 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 4 -&gt; NYG: 4 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 61 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176740" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176740">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 8:28 : 3 &amp; 2 @ 31 (1)
+Home 0 - 3 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: loss -&gt; FPR: loss 
+GYG: -1 -&gt; NYG: -1 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 61 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91767b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91767b0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 7:54 : 4 &amp; 3 @ 30 (1)
+Home 0 - 3 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: punt -&gt; PR: punt -&gt; FPR: punt 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 69 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176820" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176820">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 7:42 : 1 &amp; 10 @ 1 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 69 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176890" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176890">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 7:36 : 2 &amp; 10 @ 1 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 69 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176900" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176900">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 7:31 : 3 &amp; 10 @ 1 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: run -&gt; PR: medium gain -&gt; FPR: medium gain 
+GYG: 9 -&gt; NYG: 9 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 69 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176970" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176970">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 7:03 : 4 &amp; 1 @ 10 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: punt -&gt; PR: punt -&gt; FPR: punt 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91769e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91769e0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 6:51 : 1 &amp; 10 @ 26 (1)
+Home 0 - 3 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: big gain -&gt; FPR: first down 
+GYG: 55 -&gt; NYG: 55 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+The crowd roars with excitement.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176a50">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 6:21 : 1 &amp; 10 @ 81 (1)
+Home 0 - 3 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: no gain -&gt; FPR: fumble 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+The crowd groans in unison.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176ac0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 6:11 : 1 &amp; 10 @ 19 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: medium gain -&gt; FPR: first down 
+GYG: 10 -&gt; NYG: 10 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176b30" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176b30">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 5:40 : 1 &amp; 10 @ 29 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176ba0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176ba0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 5:32 : 2 &amp; 10 @ 29 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: big gain -&gt; FPR: first down 
+GYG: 62 -&gt; NYG: 62 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+The crowd murmurs moodily.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176c10" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176c10">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 4:55 : 1 &amp; 9 @ 91 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176c80" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176c80">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 4:48 : 2 &amp; 9 @ 91 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 1 -&gt; NYG: 1 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176cf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176cf0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 4:22 : 3 &amp; 8 @ 92 (-1)
+Home 0 - 3 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 1 -&gt; NYG: 1 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 64 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176d60" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176d60">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 3:56 : 4 &amp; 7 @ 93 (-1)
+Home 0 - 6 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: field goal -&gt; PR: field goal -&gt; FPR: made field goal 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 24 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+The crowd simmers.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176dd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176dd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 3:50 : 1 &amp; 0 @ 30 (-1)
+Home 0 - 6 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: kickoff -&gt; PR: kickoff -&gt; FPR: kickoff return 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 21 -&gt; NYR: 21 
+KD: 62 -&gt; GYR: 21 -&gt; NYR: 21 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176e40" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176e40">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 3:41 : 1 &amp; 10 @ 29 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 4 -&gt; NYG: 4 -&gt; GYR: 21 -&gt; NYR: 21 
+KD: 62 -&gt; GYR: 21 -&gt; NYR: 21 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176eb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176eb0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 3:14 : 2 &amp; 6 @ 33 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 3 -&gt; NYG: 3 -&gt; GYR: 21 -&gt; NYR: 21 
+KD: 62 -&gt; GYR: 21 -&gt; NYR: 21 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176f20" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176f20">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 2:39 : 3 &amp; 3 @ 36 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 1 -&gt; NYG: 1 -&gt; GYR: 21 -&gt; NYR: 21 
+KD: 62 -&gt; GYR: 21 -&gt; NYR: 21 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9176f90" />
+    </children>
+  </item>
+  <item nodeId="node-0x9176f90">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 2:08 : 4 &amp; 2 @ 37 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: punt -&gt; PR: punt -&gt; FPR: punt 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 30 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177000" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177000">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 1:56 : 1 &amp; 10 @ 33 (-1)
+Home 0 - 6 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: run -&gt; PR: no gain -&gt; FPR: no gain 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 30 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177070" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177070">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 1:20 : 2 &amp; 10 @ 33 (-1)
+Home 0 - 6 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 1 -&gt; NYG: 1 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 30 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91770e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91770e0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 0:53 : 3 &amp; 9 @ 34 (-1)
+Home 0 - 6 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 30 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177150" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177150">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 0:47 : 4 &amp; 9 @ 34 (-1)
+Home 0 - 6 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: punt -&gt; PR: punt -&gt; FPR: punt 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 44 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91771c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91771c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 0:37 : 1 &amp; 10 @ 22 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 44 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177230" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177230">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 0:32 : 2 &amp; 10 @ 22 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 5 -&gt; NYG: 5 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 44 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: end of quarter
+
+The referee blows his whistle to signal the end of the quarter.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91772a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91772a0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q1, 0:00 : 3 &amp; 5 @ 27 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: start next quarter -&gt; PR: start next quarter -&gt; FPR: start next quarter 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 44 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: start of quarter
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177310" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177310">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 15:00 : 3 &amp; 5 @ 27 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: incompletion -&gt; FPR: false start 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 44 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+You hear the referee&apos;s voice announce a penalty.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177380" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177380">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 15:00 : 3 &amp; 10 @ 22 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: medium gain -&gt; FPR: false start 
+GYG: 18 -&gt; NYG: 18 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 44 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: stopped
+
+You hear the referee&apos;s voice announce a penalty.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91773f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91773f0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 15:00 : 3 &amp; 15 @ 17 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: big gain -&gt; FPR: first down 
+GYG: 51 -&gt; NYG: 51 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 44 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+The crowd roars with excitement.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177460" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177460">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 14:35 : 1 &amp; 10 @ 68 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: medium gain -&gt; FPR: first down 
+GYG: 11 -&gt; NYG: 11 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 44 -&gt; GYR: 0 -&gt; NYR: 0 
+
+kickoff - off the field
+Clock is: running
+
+The crowd applauds the play on the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91774d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91774d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 14:04 : 1 &amp; 10 @ 79 (1)
+Home 0 - 6 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: short gain -&gt; FPR: interception 
+GYG: 6 -&gt; NYG: 6 -&gt; GYR: 15 -&gt; NYR: 15 
+KD: 44 -&gt; GYR: 15 -&gt; NYR: 15 
+
+kickoff - off the field
+Clock is: stopped
+
+The crowd groans in unison.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177540" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177540">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 13:55 : 1 &amp; 10 @ 30 (-1)
+Home 0 - 6 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: pass -&gt; PR: medium gain -&gt; FPR: first down 
+GYG: 18 -&gt; NYG: 18 -&gt; GYR: 15 -&gt; NYR: 15 
+KD: 44 -&gt; GYR: 15 -&gt; NYR: 15 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91775b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91775b0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 13:34 : 1 &amp; 10 @ 48 (-1)
+Home 0 - 12 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: run -&gt; PR: big gain -&gt; FPR: touchdown 
+GYG: 77 -&gt; NYG: 52 -&gt; GYR: 15 -&gt; NYR: 15 
+KD: 44 -&gt; GYR: 15 -&gt; NYR: 15 
+
+kickoff - off the field
+Clock is: stopped
+
+The crowd sits in deflated silence.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177620" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177620">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 13:28 : 1 &amp; 2 @ 98 (-1)
+Home 0 - 13 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: extra point -&gt; PR: extra point -&gt; FPR: made extra point 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 15 -&gt; NYR: 15 
+KD: 44 -&gt; GYR: 15 -&gt; NYR: 15 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177690" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177690">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 13:28 : 1 &amp; 0 @ 30 (-1)
+Home 0 - 13 Away 
+Offence TOs: 3 - Defence TOs: 2 
+PC: kickoff -&gt; PR: kickoff -&gt; FPR: kickoff return 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 68 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177700" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177700">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 13:17 : 1 &amp; 10 @ 16 (1)
+Home 0 - 13 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: short gain -&gt; FPR: short gain 
+GYG: 3 -&gt; NYG: 3 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 68 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177770" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177770">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 12:35 : 2 &amp; 7 @ 19 (1)
+Home 0 - 13 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 68 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91777e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91777e0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 12:29 : 3 &amp; 7 @ 19 (1)
+Home 0 - 13 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: big gain -&gt; FPR: first down 
+GYG: 46 -&gt; NYG: 46 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 68 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: running
+
+The crowd roars with excitement.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177850" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177850">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 12:04 : 1 &amp; 10 @ 65 (1)
+Home 0 - 13 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: loss -&gt; FPR: loss 
+GYG: -2 -&gt; NYG: -2 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 68 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91778c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91778c0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 11:32 : 2 &amp; 12 @ 63 (1)
+Home 0 - 13 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 68 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: stopped
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177930" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177930">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Q2, 11:26 : 3 &amp; 12 @ 63 (1)
+Home 0 - 13 Away 
+Offence TOs: 2 - Defence TOs: 3 
+PC: run -&gt; PR: medium gain -&gt; FPR: medium gain 
+GYG: 9 -&gt; NYG: 9 -&gt; GYR: 14 -&gt; NYR: 14 
+KD: 68 -&gt; GYR: 14 -&gt; NYR: 14 
+
+kickoff - off the field
+Clock is: running
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x91779a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91779a0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach calls for the field goal unit to go and kick a field goal.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177a10" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177a10">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach notices you&apos;re still on the sidelines and tells you to get on the field. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177a80" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177a80">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach shouts at you to get on the field. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177af0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177af0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach yells that you better run on immediately. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177b60" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177b60">
+    <command xml:space="preserve">run on</command>
+    <result xml:space="preserve">You run onto the field!
+
+On the Field
+You&apos;re standing on the field.
+
+The rest of the kicking team waits for you to give the signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177bd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177bd0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your teammates watch for your signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177c40" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177c40">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The play clock has almost run out. You really need to give the signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177cb0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177cb0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Having watched you stand motionless until the play clock is about to run out, the coach is forced to call a timeout. His face looks grim. 
+
+The coach drags you off the field and yells about the basic requirement that a kicker kick the ball. He suggests that you get on the field and do your job. 
+
+On the Sidelines
+You&apos;re standing on the sidelines.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177d20">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The coach notices you&apos;re still on the sidelines and tells you to get on the field. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177d90" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177d90">
+    <command xml:space="preserve">get on the field</command>
+    <result xml:space="preserve">You run onto the field!
+
+On the Field
+You&apos;re standing on the field.
+
+The rest of the kicking team waits for you to give the signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177e00" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177e00">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Your teammates watch for your signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177e70">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The play clock has almost run out. You really need to give the signal. 
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15106">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177ee0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177ee0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Having watched you stand motionless until the play clock is about to run out, the coach is forced to call a timeout. His face looks grim. 
+
+Looks like you&apos;ve tempted fate one too many times…⋅
+
+
+    *** You got fired. You scored 0 points in 81 turns. ***
+
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="15105">YES</temporary>
+  </item>
+  <item nodeId="node-0x9177f50">
+    <command xml:space="preserve">l north</command>
+    <result xml:space="preserve">It&apos;s sidelines all the way along.
+
+The coach orders you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1729">YES</temporary>
+    <children>
+      <child nodeId="node-0x9177fc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9177fc0">
+    <command xml:space="preserve">run on</command>
+    <result xml:space="preserve">You head onto the field.
+
+field
+You find yourself standing on the field of play at your own 30 yard line. For the moment you are the center of attention. The crowd looms all around you, largely silent as they wait for you to signal your kick.
+
+You can see the special teams unit, some officials and the opposition here.
+
+The  kickoff unit waits for you to give the signal.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1729">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178030" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178030">
+    <command xml:space="preserve">l north</command>
+    <result xml:space="preserve">It&apos;s sidelines all the way along.
+
+Your teammates wait impatiently for your signal.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1729">YES</temporary>
+    <children>
+      <child nodeId="node-0x91780a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91780a0">
+    <command xml:space="preserve">l east</command>
+    <result xml:space="preserve">Over on the opposition sidelines you can see a kind of mirror view of your own team. Except they all hate you and want you to lose.
+
+The play clock has almost run out. You really must give the signal immediately.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1729">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178110" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178110">
+    <command xml:space="preserve">l west</command>
+    <result xml:space="preserve">It&apos;s your sidelines. You can see assorted coaches and teammates over there, milling around and watching the game.
+
+Having waited for too long for you to kick, the coach is forced to call a timeout to avoid a penalty. His face is silently furious. He shouts from the sidelines about your perhaps short-lived role on the team. He suggests that you give the signal and get on with it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1728">YES</temporary>
+  </item>
+  <item nodeId="node-0x9178180">
+    <command xml:space="preserve">talk to film crew</command>
+    <result xml:space="preserve">You try to casually have a word with the film crew, but they all shake their heads at you in unison and you stop.
+
+Your coach waves at you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="5">YES</temporary>
+    <children>
+      <child nodeId="node-0x91781f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91781f0">
+    <command xml:space="preserve">l quarterback</command>
+    <result xml:space="preserve">It cannot be denied: he&apos;s a good-looking guy.
+
+Your coach yells hoarsely that you need to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="5">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178260" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178260">
+    <command xml:space="preserve">l quarterback</command>
+    <result xml:space="preserve">It cannot be denied: he&apos;s a good-looking guy.
+
+Your coach roars in your face to run on immediately.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="5">YES</temporary>
+    <children>
+      <child nodeId="node-0x91782d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91782d0">
+    <command xml:space="preserve">l quarterback</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="4">YES</temporary>
+  </item>
+  <item nodeId="node-0x9178340">
+    <command xml:space="preserve">stretch</command>
+    <result xml:space="preserve">You do some brisk lunges and feel vaguely more like a professional athlete.
+
+The coach waves at you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x91783b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91783b0">
+    <command xml:space="preserve">stretch</command>
+    <result xml:space="preserve">You ostentatiously perform a hamstring stretch, looking around to see if anyone&apos;s watching.
+
+The coach screams at you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178420" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178420">
+    <command xml:space="preserve">sigh</command>
+    <result xml:space="preserve">You sigh. It doesn&apos;t help your mood.
+
+The coach yells that you better run on without delay.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178490" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178490">
+    <command xml:space="preserve">talk to yourself</command>
+    <result xml:space="preserve">You&apos;re already enough of an outcast on the team as it is.
+
+Your coach has to burn a timeout because you delayed too long before getting out onto the field. He looks extremely displeased. He grabs you by the jersey and orders you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178500" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178500">
+    <command xml:space="preserve">talk to crowd</command>
+    <result xml:space="preserve">You turn to stare into the seething mass of the crowd and can&apos;t think of anything to say.
+
+The coach orders you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178570" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178570">
+    <command xml:space="preserve">talk to crowd</command>
+    <result xml:space="preserve">You probably have better things to do than shouting at the crowd. Well, perhaps not, but it&apos;s not going to happen.
+
+The coach yells hoarsely that you need to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x91785e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91785e0">
+    <command xml:space="preserve">talk to film crew</command>
+    <result xml:space="preserve">It&apos;s generally considered impolite to talk on the sidelines with your helmet on.
+
+The coach screams with a red face that you have to run on immediately.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178650" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178650">
+    <command xml:space="preserve">remove hlmet</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x91786c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91786c0">
+    <command xml:space="preserve">remove helmet</command>
+    <result xml:space="preserve">You take off your helmet.
+
+The head coach quickly calls a timeout because you didn&apos;t even run onto the field to kick. He looks extraordinarily unimpressed. He suggests that perhaps this time you would do everyone a favour and run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178730" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178730">
+    <command xml:space="preserve">talk to crew</command>
+    <result xml:space="preserve">You step toward the film crew to have a chat, but they&apos;re in the middle of filming a segment about your team&apos;s quarterback so you wander away.
+
+The coach nods to you and instructs you run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x91787a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91787a0">
+    <command xml:space="preserve">talk to cheerleader</command>
+    <result xml:space="preserve">You clear your throat and try to impress the cheerleaders by telling them that you used to do ballet when you were a boy, but they just go on dancing and smiling their dazzling smiles at the crowd.
+
+The coach grinds his teeth and tells you to run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1767">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178810" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178810">
+    <command xml:space="preserve">talk to cheerleader</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1766">YES</temporary>
+  </item>
+  <item nodeId="node-0x9178880">
+    <command xml:space="preserve">wear helmet</command>
+    <result xml:space="preserve">You put on your helmet.
+
+O: 3, D: 3
+The coach calls you over and tells you to get on the field. 
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2354">YES</temporary>
+    <children>
+      <child nodeId="node-0x91788f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91788f0">
+    <command xml:space="preserve">drop helmet</command>
+    <result xml:space="preserve">You consider throwing down your helmet in a fit of pique, but decide against it.
+
+O: 3, D: 3
+The coach grinds his teeth and tells you to get on the field. 
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2354">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178960" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178960">
+    <command xml:space="preserve">ru on</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2354">YES</temporary>
+    <children>
+      <child nodeId="node-0x91789d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x91789d0">
+    <command xml:space="preserve">run on</command>
+    <result xml:space="preserve">You hurry onto the field.
+
+O: 3, D: 3
+The members of the coverage unit waits for you to give the signal. 
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2354">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178a40">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">The field
+In The field you can see the special teams unit, an officials and the opposition.
+
+O: 3, D: 3
+Your teammates shift a little as they wait for your signal. 
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2354">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178ab0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178ab0">
+    <command xml:space="preserve">remove helmet</command>
+    <result xml:space="preserve">The rulebook is pretty clear about not removing your helmet on the field of play.
+
+O: 3, D: 3
+The play clock has almost run down. You really need to give the signal right now. 
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2353">YES</temporary>
+  </item>
+  <item nodeId="node-0x9178b20">
+    <command xml:space="preserve">tackle</command>
+    <result xml:space="preserve">Tackling someone right now would be incredibly impolite.
+
+Q1, 15:00 : 1 &amp; 0 @ 30 (1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: kickoff -&gt; PR: kickoff -&gt; FPR: kickoff return 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 18 -&gt; NYR: 18 
+KD: 66 -&gt; GYR: 18 -&gt; NYR: 18 
+
+Clock is: stopped
+The kickoff unit runs off the field.
+
+The defense runs onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178b90">
+    <command xml:space="preserve">tackle</command>
+    <result xml:space="preserve">You think about tackling someone, and then you don&apos;t do it.
+
+Q1, 14:48 : 1 &amp; 10 @ 22 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: run -&gt; PR: no gain -&gt; FPR: no gain 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 18 -&gt; NYR: 18 
+KD: 66 -&gt; GYR: 18 -&gt; NYR: 18 
+
+Clock is: running
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178c00">
+    <command xml:space="preserve">tackle</command>
+    <result xml:space="preserve">As amusing as tackling someone right now might be, it&apos;s just not a good idea.
+
+Q1, 14:08 : 2 &amp; 10 @ 22 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: pass -&gt; PR: incompletion -&gt; FPR: false start 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 18 -&gt; NYR: 18 
+KD: 66 -&gt; GYR: 18 -&gt; NYR: 18 
+
+Clock is: stopped
+You hear the referee&apos;s voice announce a penalty..
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178c70" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178c70">
+    <command xml:space="preserve">tackle</command>
+    <result xml:space="preserve">Tackling someone right now would be incredibly impolite.
+
+Q1, 14:08 : 2 &amp; 15 @ 17 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: run -&gt; PR: gain -&gt; FPR: gain 
+GYG: 2 -&gt; NYG: 2 -&gt; GYR: 18 -&gt; NYR: 18 
+KD: 66 -&gt; GYR: 18 -&gt; NYR: 18 
+
+Clock is: running
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178ce0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178ce0">
+    <command xml:space="preserve">tackle</command>
+    <result xml:space="preserve">You imagine tackling someone instead, it&apos;s safer and better.
+
+Q1, 13:31 : 3 &amp; 13 @ 19 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: pass -&gt; PR: sack -&gt; FPR: sack 
+GYG: -2 -&gt; NYG: -2 -&gt; GYR: 18 -&gt; NYR: 18 
+KD: 66 -&gt; GYR: 18 -&gt; NYR: 18 
+
+Clock is: running
+The crowd cheers.
+
+The defense runs off the field.
+
+The punt return team runs onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178d50" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178d50">
+    <command xml:space="preserve">tackle</command>
+    <result xml:space="preserve">You look around you for a likely subject to tackle, but then think better of it.
+
+Q1, 12:49 : 4 &amp; 15 @ 17 (-1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: punt -&gt; PR: punt -&gt; FPR: punt 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 45 -&gt; GYR: 0 -&gt; NYR: 0 
+
+Clock is: stopped
+The punt return unit runs off the field.
+
+The offense runs onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178dc0">
+    <command xml:space="preserve">tackle</command>
+    <result xml:space="preserve">As amusing as tackling someone right now might be, it&apos;s just not a good idea.
+
+Q1, 12:39 : 1 &amp; 10 @ 38 (1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: pass -&gt; PR: sack -&gt; FPR: sack 
+GYG: -2 -&gt; NYG: -2 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 45 -&gt; GYR: 0 -&gt; NYR: 0 
+
+Clock is: running
+The crowd makes a wincing sound.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178e30" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178e30">
+    <command xml:space="preserve">tackle</command>
+    <result xml:space="preserve">Instead of tackling someone, you don&apos;t tackle anyone at all.
+
+Q1, 12:03 : 2 &amp; 12 @ 36 (1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: pass -&gt; PR: incompletion -&gt; FPR: incompletion 
+GYG: 0 -&gt; NYG: 0 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 45 -&gt; GYR: 0 -&gt; NYR: 0 
+
+Clock is: stopped
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178ea0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178ea0">
+    <command xml:space="preserve">make tackle</command>
+    <result xml:space="preserve">You think about tackling someone, and then you don&apos;t do it.
+
+Q1, 11:55 : 3 &amp; 12 @ 36 (1)
+Home 0 - 0 Away 
+Offence TOs: 3 - Defence TOs: 3 
+PC: pass -&gt; PR: gain -&gt; FPR: gain 
+GYG: 10 -&gt; NYG: 10 -&gt; GYR: 0 -&gt; NYR: 0 
+KD: 45 -&gt; GYR: 0 -&gt; NYR: 0 
+
+Clock is: running
+The offense runs off the field.
+
+The punt team runs onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3773">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178f10">
+    <command xml:space="preserve">tackle man</command>
+    <result xml:space="preserve">I only understood you as far as wanting to tackle.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="3772">YES</temporary>
+  </item>
+  <item nodeId="node-0x9178f80">
+    <command xml:space="preserve">x game</command>
+    <result xml:space="preserve">Rather than watch the game, perhaps you should get into it.
+
+Your coach nods to you and instructs you run onto the field.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="543">YES</temporary>
+    <children>
+      <child nodeId="node-0x9178ff0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9178ff0">
+    <command xml:space="preserve">run on</command>
+    <result xml:space="preserve">You run onto the field.
+
+The Field
+You find yourself standing on the field of play at your own 30 yard line. Refreshingly, everyone is paying attention to you. The crowd looms all around you, largely silent as they wait for you to signal your kick. To the west you can see your home sidelines and to the east is the opposition sidelines. The Jumbotron looms above it all.
+
+You can see the special teams unit, some officials and the opposition here.
+
+The members of the kickoff team wait for you to give the signal.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="543">YES</temporary>
+    <children>
+      <child nodeId="node-0x9179060" />
+    </children>
+  </item>
+  <item nodeId="node-0x9179060">
+    <command xml:space="preserve">x game</command>
+    <result xml:space="preserve">(the game)
+You see nothing special about the game.
+
+Your teammates watch closely for your signal.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="542">YES</temporary>
+  </item>
+  <item nodeId="node-0x91790d0">
+    <command xml:space="preserve">talk to defensive player</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="27">YES</temporary>
+  </item>
+</Skein>

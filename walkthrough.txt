@@ -1,0 +1,3 @@
+Kicker is not a game with a set of puzzles and a narrative arc. Instead, you play your designated role within a simulated game of (American) football - going onto the field when it is your turn, and staying off the field otherwise. Winning and losing the game are, therefore, a team achievement, rather than solely your own.
+
+Good luck!
