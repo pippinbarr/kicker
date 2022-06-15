@@ -1,6 +1,7 @@
 # Kicker
 
 ## [Play Online](https://pippinbarr.github.io/kicker/web/) (mobile-friendly)
+## [Download the .gblorb to play in an interpreter](https://github.com/pippinbarr/kicker/releases/tag/gblorb) (Consider [*Gargoyle*](http://ccxvii.net/gargoyle/))
 
 ## Description
 Kicker was written in [Inform 7](http://inform7.com/) (version 7.8 - Hydrogen - 7.6.5 build 6G60) and is based on an idea concocted at dinner with [Doug Wilson](http://doougle.net/) and [Simon Christiansen](http://simonsjournal.wordpress.com/). See the game's "walkthrough" for testers' names, bless them all.
